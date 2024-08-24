@@ -1,0 +1,61 @@
+ERROR:root:HTTP Error: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill, Response Content: b'{"error":"Model facebook/blenderbot-400M-distill is currently loading","estimated_time":29.19023895263672}'
+ERROR:root:HTTP Error: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill, Response Content: b'{"error":"Model facebook/blenderbot-400M-distill is currently loading","estimated_time":29.19023895263672}'
+ERROR:root:HTTP Error: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill, Response Content: b'{"error":"Model facebook/blenderbot-400M-distill is currently loading","estimated_time":29.19023895263672}'
+ERROR:root:HTTP Error: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill, Response Content: b'{"error":"Model facebook/blenderbot-400M-distill is currently loading","estimated_time":29.19023895263672}'
+ERROR:root:Error querying local OLLaMA model: Ollama call failed with status code 404. Maybe your model is not found and you should pull the model with `ollama pull llama3.1`.
+ERROR:root:Error querying local OLLaMA model: generate() missing 1 required keyword-only argument: 'run_id'
+ERROR:root:Error querying local OLLaMA model: generate() missing 1 required keyword-only argument: 'run_id'
+ERROR:root:Error querying local OLLaMA model: generate() missing 1 required positional argument: 'prompts'
+ERROR:root:Error querying local OLLaMA model: generate() missing 1 required keyword-only argument: 'run_id'
+ERROR:root:Error querying local OLLaMA model: generate() missing 1 required keyword-only argument: 'run_id'
+ERROR:root:Error querying local OLLaMA model: generate() missing 1 required keyword-only argument: 'run_id'
+ERROR:root:Error querying local OLLaMA model: generate() missing 1 required keyword-only argument: 'run_id'
+ERROR:root:Error querying local OLLaMA model: generate() missing 1 required keyword-only argument: 'run_id'
+ERROR:root:Error querying local OLLaMA model: _get_run_ids_list() takes 2 positional arguments but 3 were given
+ERROR:root:Error querying local OLLaMA model: _get_run_ids_list() takes 2 positional arguments but 3 were given
+ERROR:root:Error querying local OLLaMA model: _get_run_ids_list() takes 2 positional arguments but 3 were given
+ERROR:root:Error querying local OLLaMA model: _get_run_ids_list() takes 2 positional arguments but 3 were given
+ERROR:root:Error querying local OLLaMA model: _get_run_ids_list() takes 2 positional arguments but 3 were given
+ERROR:root:Error querying local OLLaMA model: generate() missing 1 required keyword-only argument: 'run_id'
+ERROR:root:Error querying local OLLaMA model: _get_run_ids_list() takes 2 positional arguments but 3 were given
+ERROR:root:Error querying local OLLaMA model: _get_run_ids_list() takes 2 positional arguments but 3 were given
+ERROR:root:Error querying local OLLaMA model: _get_run_ids_list() takes 2 positional arguments but 3 were given
+ERROR:root:Error querying local OLLaMA model: _get_run_ids_list() takes 2 positional arguments but 3 were given
+ERROR:root:API request failed: 400 Client Error: Bad Request for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B-Instruct
+ERROR:root:API request failed: 400 Client Error: Bad Request for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B-Instruct
+ERROR:root:API request failed: 400 Client Error: Bad Request for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B-Instruct
+ERROR:root:API request failed: 400 Client Error: Bad Request for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B-Instruct
+ERROR:root:API request failed: 400 Client Error: Bad Request for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B-Instruct
+ERROR:root:API request failed: 400 Client Error: Bad Request for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B-Instruct
+ERROR:root:API request failed: 400 Client Error: Bad Request for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B-Instruct
+ERROR:root:API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B
+ERROR:root:API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B
+ERROR:root:HTTP Error: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B, Response Content: b'{"error":"The model meta-llama/Meta-Llama-3.1-8B is too large to be loaded automatically (16GB > 10GB). Please use Spaces (https://huggingface.co/spaces) or Inference Endpoints (https://huggingface.co/inference-endpoints)."}'
+ERROR:root:HTTP Error: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B, Response Content: b'{"error":"The model meta-llama/Meta-Llama-3.1-8B is too large to be loaded automatically (16GB > 10GB). Please use Spaces (https://huggingface.co/spaces) or Inference Endpoints (https://huggingface.co/inference-endpoints)."}'
+ERROR:root:HTTP Error: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B, Response Content: b'{"error":"The model meta-llama/Meta-Llama-3.1-8B is too large to be loaded automatically (16GB > 10GB). Please use Spaces (https://huggingface.co/spaces) or Inference Endpoints (https://huggingface.co/inference-endpoints)."}'
+ERROR:root:HTTP Error: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B, Response Content: b'{"error":"The model meta-llama/Meta-Llama-3.1-8B is too large to be loaded automatically (16GB > 10GB). Please use Spaces (https://huggingface.co/spaces) or Inference Endpoints (https://huggingface.co/inference-endpoints)."}'
+ERROR:root:HTTP Error: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3.1-8B, Response Content: b'{"error":"The model meta-llama/Meta-Llama-3.1-8B is too large to be loaded automatically (16GB > 10GB). Please use Spaces (https://huggingface.co/spaces) or Inference Endpoints (https://huggingface.co/inference-endpoints)."}'
+ERROR:root:HTTP Error: 404 Client Error: Not Found for url: https://huggingface.co/meta-llama/Llama-Guard-3-8B, Response Content: b'<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /meta-llama/Llama-Guard-3-8B</pre>\n</body>\n</html>\n'
+ERROR:root:HTTP Error: 404 Client Error: Not Found for url: https://huggingface.co/meta-llama/Llama-Guard-3-8B, Response Content: b'<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /meta-llama/Llama-Guard-3-8B</pre>\n</body>\n</html>\n'
+ERROR:root:HTTP Error: 404 Client Error: Not Found for url: https://huggingface.co/meta-llama/Llama-Guard-3-8B, Response Content: b'<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /meta-llama/Llama-Guard-3-8B</pre>\n</body>\n</html>\n'
+ERROR:root:HTTP Error: 404 Client Error: Not Found for url: https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct, Response Content: b'<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /meta-llama/Meta-Llama-3.1-8B-Instruct</pre>\n</body>\n</html>\n'
+ERROR:root:HTTP Error: 404 Client Error: Not Found for url: https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct, Response Content: b'<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /meta-llama/Meta-Llama-3.1-8B-Instruct</pre>\n</body>\n</html>\n'
+ERROR:root:HTTP Error: 404 Client Error: Not Found for url: https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct, Response Content: b'<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /meta-llama/Meta-Llama-3.1-8B-Instruct</pre>\n</body>\n</html>\n'
+ERROR:root:Error querying Hugging Face LLaMA model: 'InferenceClient' object is not callable
+ERROR:root:Error querying Hugging Face LLaMA model: 'InferenceClient' object is not callable
+ERROR:root:Error querying Hugging Face LLaMA model: 'InferenceClient' object is not callable
+ERROR:root:Error querying Hugging Face LLaMA model: 'InferenceClient' object is not callable
+ERROR:root:Error querying Hugging Face LLaMA model: 'InferenceClient' object is not callable
+ERROR:root:Error querying Hugging Face LLaMA model: 'InferenceClient' object is not callable
+ERROR:root:Error querying Hugging Face LLaMA model: chat_completion() got an unexpected keyword argument 'stop_sequences'
+ERROR:root:An error occurred: Invalid URL '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/api/generate/': No scheme supplied. Perhaps you meant https://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/api/generate/?
+ERROR:root:An error occurred: 'InferenceClient' object is not callable
+ERROR:root:An error occurred: 'InferenceClient' object is not callable
+ERROR:root:An error occurred: 'InferenceClient' object has no attribute 'query'
+ERROR:root:An error occurred: 'InferenceClient' object is not callable
+ERROR:root:An error occurred: 'InferenceClient' object has no attribute '__call__'
+ERROR:root:An error occurred: text_generation() got an unexpected keyword argument 'inputs'
+ERROR:root:An error occurred: 'InferenceClient' object has no attribute 'call'
+ERROR:root:An error occurred: text_generation() got an unexpected keyword argument 'max_length'
+ERROR:root:An error occurred: 'InferenceClient' object is not callable
+ERROR:root:An error occurred: text_generation() got an unexpected keyword argument 'inputs'
